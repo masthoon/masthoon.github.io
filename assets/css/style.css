@@ -1,13 +1,13 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
-
-.visible-lg-inline {
-	visibility: hidden !important;
+@media screen and (min-width: 1200px) {
+	.visible-lg-inline {
+	  	display: inline-block !important;
+	}
 }
-  
-.visible-lg-inline {
-	@media (min-width: 1200px) {
-	  display: inline !important;
+@media screen and (max-width: 1200px) {
+	.visible-lg-inline {
+		visibility: hidden !important;
 	}
 }
 

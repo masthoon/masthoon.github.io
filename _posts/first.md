@@ -1,0 +1,19 @@
+---
+layout: post
+title: First post
+categories: [general]
+tags: [nothing, to, see, here]
+description: My first post
+---
+
+Hi, simple blog on RE, Windows, Exploitation and random stuff :)
+
+{% highlight python %}
+# -*- coding: rot_13 -*-
+
+qrs xi(___=((252879+3)//252882)):
+    ____ = pue((ynzoqn __: [___, 010, ((3372125+3)//210758), 0o100000][__])(0o11))
+    cevag("SGVsbG8=".qrpbqr("4z06uue69sgjanpb"[::-03]) + ____ + "\k57\k6s\k72\k6p\k64\k21"[(37*0k0//(~6511%777))::___])
+
+xi()
+{% endhighlight %}

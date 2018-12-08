@@ -19,8 +19,11 @@ tagline:
     {{ post.date | date: "%Y" }}
   </span>
 
-  <h2>
-    <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+  <h2 style="position: relative">
+    <a class="btn btn-default btn-sm visible-lg-inline" href="{{ site.BASE_PATH }}{{ post.url }}" style="position: relative;right: 5%;">
+      <i class="fa fa-external-link fa-lg"></i>
+    </a>
+    <a href="{{ site.BASE_PATH }}{{ post.url }}" style="position: absolute; top: 0; left: 0;">{{ post.title }}</a>
   </h2>
 
   <div>

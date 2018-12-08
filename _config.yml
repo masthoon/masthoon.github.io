@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Mastho's blog
 
 description: RE, Exploitation, Windows & Random
 author:
@@ -23,7 +23,6 @@ author:
   bio: Security Researcher
   email_md5: 4fa429d0f93952673648595ade8a16f5
 
-rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
